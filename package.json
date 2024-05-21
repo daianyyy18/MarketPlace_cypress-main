@@ -1,0 +1,13 @@
+{
+  "name": "MarketPlace_cypress-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daiany Silva ",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
